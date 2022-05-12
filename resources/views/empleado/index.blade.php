@@ -18,7 +18,7 @@
 
 
 
-
+<h3>MENSAJE NUEVO PERROS</h3>
 
 <a href="{{url('empleado/create')}}" class="btn btn-success">Registrar nuevo empleado</a>
 <br/>
